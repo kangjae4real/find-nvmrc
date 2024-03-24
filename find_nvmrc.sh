@@ -1,0 +1,1 @@
+echo "Hello, World!" || echo '"echo" command faild.'
